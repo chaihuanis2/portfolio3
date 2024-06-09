@@ -19,7 +19,7 @@ function Work(props) {
           - raising Snapchat performance (specifying audience and geos)
 </p>
         <video controls>
-          <source src="reel2.mp4" type="video/mp4" />
+          <source src="reel2-small.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

@@ -10,7 +10,7 @@ function App() {
 
   const getColor = (tab) => {
       if(currentTab === tab) {
-          return 'blue';
+        return 'rgb(67, 255, 170)';
       }else {
           return 'white';
       }
