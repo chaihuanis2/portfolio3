@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  color: rgb(67, 255, 170);
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  //background-color: linear-gradient(to bottom, blue);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #6a30dd;
+  padding: 1rem;
+  margin: 0;
+}
+
+nav a {
+  color: rgb(67, 255, 170);
+  text-decoration: none;
+  font-weight: 900;
+  margin: 0 2rem;
+}
+
+section {
+  padding: 2rem;
+  //border-bottom: 1px solid #ff0000;
+}
+
+#home {
+  text-align: center;
+  margin-top: 2rem;
+}

@@ -1,0 +1,8 @@
+.work-content {
+  text-align: center;
+}
+
+.work-content video {
+  max-width: 25%;
+  height: auto;
+}
